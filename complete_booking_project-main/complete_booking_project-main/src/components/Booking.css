@@ -1,0 +1,19 @@
+/* src/components/Booking.css */
+.booking {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .booking input {
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+  }
+  
+  .booking button {
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+  }
+  
